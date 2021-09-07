@@ -52,6 +52,8 @@
   "invalidPageNumber": "Ongeldige paginanummer",
   "invalidQrcode": "Ongeldige qrcode",
   "invalidatedTicket": "Het ticket ({}) is door de organisatie ongeldig gemaakt of is nu in gebruik op een ander apparaat.",
+  "languageNotSupported": "Taal niet ondersteund",
+  "languageNotSupportedText": "De taal \"{}\" wordt niet ondersteund op deze telefoon. Mogelijk moet deze nog geinstalleerd worden of geconfigureerd worden in de instellingen van de telefoon.\n\n Als standaard taal wordt nu Engels gebruikt.",
   "liveColor": "Live tracking kleur",
   "liveColorText": "De live tracking lijnkleur.",
   "locationAllow": "Geef 'FE Tracking' toegang tot de locatie van dit apparaat, zelfs wanneer de app gesloten of niet in gebruik is.",
