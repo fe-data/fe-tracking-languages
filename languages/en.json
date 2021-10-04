@@ -120,6 +120,8 @@
   "trackName": "Track name",
   "trackNameEmpty": "Empty name is not allowed",
   "trackNameUpdated": "Track name updated",
+  "trackRecording": "Recording is active",
+  "trackRecordingTxt": "It is not possible to add a new track while recording.",
   "tracks": "Tracks",
   "tts": "Text-To-Speech",
   "ttsCheckpoint": "Checkpoint {}. Repeat: checkpoint {}.",
