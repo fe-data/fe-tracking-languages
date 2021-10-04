@@ -120,6 +120,8 @@
   "trackName": "Route naam",
   "trackNameEmpty": "Lege naam is niet toegestaan",
   "trackNameUpdated": "Route naam gewijzigd",
+  "trackRecording": "Opnemen is actief",
+  "trackRecordingTxt": "Tijdens het opnemen is het niet mogelijk om een nieuwe route toe te voegen.",
   "tracks": "Routes",
   "tts": "Tekst naar spraak",
   "ttsCheckpoint": "Controlepost {}. Herhaling: controlepost {}.",
