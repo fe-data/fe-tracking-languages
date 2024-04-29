@@ -5,7 +5,7 @@ Languages supported by [FE Tracking](https://fe-tracking.fast-events.eu/en/lates
 Check the languages folder to see if your language is supported. If the language is not supported you can add a language yourself. Follow the steps below:
 
 1. Make sure you have a  Github account
-1. Sign in with your Github account at [https://gitlocalize.com/repo/9558](https://gitlocalize.com/repo/9558)
+1. Sign in with your Github account at [https://gitlocalize.com/repo/6402](https://gitlocalize.com/repo/6402)
 1. Create a new issue in [https://github.com/fe-data/fe-tracking-languages/issues](https://github.com/fe-data/fe-tracking-languages/issues) requesting the new language code. We will give you the role of moderator for the new language. Use the two letter codes from [this source](http://www.loc.gov/standards/iso639-2/php/code_list.php). Only LTR-languages are supported.
 
 ## Pull requests
